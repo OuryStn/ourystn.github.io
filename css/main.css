@@ -1,0 +1,91 @@
+header
+		{
+			background-color: hsl(180, 90%, 35%);
+			color: #FFFFFF;
+		}
+		h1
+		{
+			text-indent: 10px; 
+			padding-top: 10px;
+		}
+		nav
+		{
+			background-color: hsl(180, 80%, 25%);
+		}
+		nav ul
+		{
+			margin: 0px;
+			padding: 5px 0px 5px 30px;
+		}
+		nav li
+		{
+			display: inline; /*mettre les élements en lignes */
+			margin-right: 20px;/* laisser une marge à droite de 20px*/
+		}
+		a
+		{
+			text-decoration: none;
+			color: inherit;
+		}
+		.titre
+		{
+			text-align: center;
+			margin: 0 0 40px;
+		}
+		.contenu
+		{
+			width: 500px;
+			margin: 20px auto;
+			padding: 30px;
+			background-color: #fafa;
+		}
+		img
+		{
+			height: 200px;
+			float: left;
+			margin: 0 40px 0 0;
+		}
+		span
+		{
+			font-style: normal;
+			font-size: 35px;
+			font-weight: bold;
+			color: #ff0000;
+		}
+		blockquote
+		{
+			font-style: italic;
+			font-size: 30px;
+		}
+
+		/*Css et layou*/
+			
+		.bio	{
+				border: 1px solid black;
+				margin-bottom: 10px;
+			}
+
+			
+			
+
+			.foo
+			{
+				background-color: lightgray;
+			}
+			.alert 
+			{
+				color: blue;
+			}
+					.fii
+					{
+						background-color: blue;
+					}
+					.bio h3
+					{
+						text-align: center;
+					}
+					.faa
+					{
+						background-color: orange;
+					}
+					/*Css et layou*/
